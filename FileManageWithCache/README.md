@@ -13,23 +13,23 @@ A simple **C++ file management system** that supports **creating, reading, appen
 ---
 
 ## 🛠 Tech Stack  
-- **C++** (OOP, File Handling, STL)  
+- **C++** (OOP, System Design, Caching, File Handling, STL)  
 - **Filesystem Library** (C++17)  
 
 ---
 
 ## 📂 Project Structure  
 FileManageWithCache/
-│── FileCache.h          # Header file for caching system
-│── FileCache.cpp        # Implementation of caching
-│── FileManagement.h     # Header file for file operations
-│── FileManagement.cpp   # Implementation of file operations
-│── FileMenu.h           # Header file for user interface
-│── FileMenu.cpp         # Implementation of user interface
-│── main.cpp             # Entry point of the program
-│── output/              # Directory to store compiled files (optional)
-│── file_manager.exe     # Compiled executable (Windows)
-│── README.md            # Project documentation
+│── FileCache.h          # Header file for caching system  
+│── FileCache.cpp        # Implementation of caching  
+│── FileManagement.h     # Header file for file operations  
+│── FileManagement.cpp   # Implementation of file operations  
+│── FileMenu.h           # Header file for user interface  
+│── FileMenu.cpp         # Implementation of user interface  
+│── main.cpp             # Entry point of the program  
+│── output/              # Directory to store compiled files (optional)  
+│── file_manager.exe     # Compiled executable (Windows)  
+│── README.md            # Project documentation  
 
 
 ---
